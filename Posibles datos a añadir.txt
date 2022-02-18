@@ -1,0 +1,7 @@
+- Consumo de agua por día/mes en otros sitios (ejemplo Barcelona)
+
+- Temperatura media y humedad por hora durante cada día (Valencia)
+
+- VALENCIA: Tener en cuenta cuándo hay turismo (por ejemplo Madrid se vacía en verano); Posibles huertas y riegos, al contrario que Madrid
+
+- Cuidado días laborales/no y atípicos (ej. mundial Sudáfrica, huelga general 2010, Semana Santa días distintos y con temperaturas distintas, 
